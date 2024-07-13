@@ -1,3 +1,3 @@
 @echo off
 
-python proxyPool.py schedule
+python proxyPool.py server
